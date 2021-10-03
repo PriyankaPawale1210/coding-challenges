@@ -1,0 +1,12 @@
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\RobotLayer.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\RobotLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\RobotLayer.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\RobotLayer.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\RobotLayer.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\bin\Debug\net5.0\RobotLayer.deps.json
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\bin\Debug\net5.0\RobotLayer.dll
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\bin\Debug\net5.0\ref\RobotLayer.dll
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\bin\Debug\net5.0\RobotLayer.pdb
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\RobotLayer.dll
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\ref\RobotLayer.dll
+C:\Users\rishi\source\repos\Robot_Wars\RobotLayer\obj\Debug\net5.0\RobotLayer.pdb
